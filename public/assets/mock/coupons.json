@@ -1,0 +1,163 @@
+[
+    {
+      "id": "CPN1001",
+      "code": "WELCOME10",
+      "name": "첫 구매 10% 할인",
+      "discountType": "percent",
+      "discountValue": 10,
+      "issuedAt": "2025-04-01T10:00:00Z"
+    },
+    {
+      "id": "CPN1002",
+      "code": "SPRING25",
+      "name": "봄맞이 25% 할인",
+      "discountType": "percent",
+      "discountValue": 25,
+      "issuedAt": "2025-04-02T11:30:00Z"
+    },
+    {
+      "id": "CPN1003",
+      "code": "SAVE5000",
+      "name": "5천원 할인 쿠폰",
+      "discountType": "amount",
+      "discountValue": 5000,
+      "issuedAt": "2025-04-03T09:45:00Z"
+    },
+    {
+      "id": "CPN1004",
+      "code": "VIP30",
+      "name": "VIP 전용 30% 할인",
+      "discountType": "percent",
+      "discountValue": 30,
+      "issuedAt": "2025-04-04T15:00:00Z"
+    },
+    {
+      "id": "CPN1005",
+      "code": "FREESHIP",
+      "name": "배송비 무료 쿠폰",
+      "discountType": "amount",
+      "discountValue": 3500,
+      "issuedAt": "2025-04-05T14:00:00Z"
+    },
+    {
+      "id": "CPN1006",
+      "code": "NEWYEAR20",
+      "name": "새해맞이 20% 할인",
+      "discountType": "percent",
+      "discountValue": 20,
+      "issuedAt": "2025-04-06T09:30:00Z"
+    },
+    {
+      "id": "CPN1007",
+      "code": "STUDENT15",
+      "name": "학생 전용 15% 할인",
+      "discountType": "percent",
+      "discountValue": 15,
+      "issuedAt": "2025-04-07T16:45:00Z"
+    },
+    {
+      "id": "CPN1008",
+      "code": "LIMIT1000",
+      "name": "1,000원 한정 쿠폰",
+      "discountType": "amount",
+      "discountValue": 1000,
+      "issuedAt": "2025-04-08T12:00:00Z"
+    },
+    {
+      "id": "CPN1009",
+      "code": "WOMENSDAY",
+      "name": "여성의 날 30% 할인",
+      "discountType": "percent",
+      "discountValue": 30,
+      "issuedAt": "2025-04-09T10:10:00Z"
+    },
+    {
+      "id": "CPN1010",
+      "code": "SHOPNOW",
+      "name": "즉시 사용 10% 할인",
+      "discountType": "percent",
+      "discountValue": 10,
+      "issuedAt": "2025-04-10T13:40:00Z"
+    },
+    {
+      "id": "CPN1011",
+      "code": "WEEKEND50",
+      "name": "주말 한정 50% 할인",
+      "discountType": "percent",
+      "discountValue": 50,
+      "issuedAt": "2025-04-11T18:00:00Z"
+    },
+    {
+      "id": "CPN1012",
+      "code": "NIGHTOWL",
+      "name": "심야 할인 20%",
+      "discountType": "percent",
+      "discountValue": 20,
+      "issuedAt": "2025-04-12T22:00:00Z"
+    },
+    {
+      "id": "CPN1013",
+      "code": "LOYAL5",
+      "name": "단골 고객용 5천원",
+      "discountType": "amount",
+      "discountValue": 5000,
+      "issuedAt": "2025-04-13T08:00:00Z"
+    },
+    {
+      "id": "CPN1014",
+      "code": "REFERRAL20",
+      "name": "추천인 할인 20%",
+      "discountType": "percent",
+      "discountValue": 20,
+      "issuedAt": "2025-04-14T14:15:00Z"
+    },
+    {
+      "id": "CPN1015",
+      "code": "THANKS",
+      "name": "감사의 3000원 할인",
+      "discountType": "amount",
+      "discountValue": 3000,
+      "issuedAt": "2025-04-15T10:10:00Z"
+    },
+    {
+      "id": "CPN1016",
+      "code": "WELCOME5000",
+      "name": "신규회원 5천원 쿠폰",
+      "discountType": "amount",
+      "discountValue": 5000,
+      "issuedAt": "2025-04-16T13:30:00Z"
+    },
+    {
+      "id": "CPN1017",
+      "code": "LUNCHDEAL",
+      "name": "점심시간 10% 할인",
+      "discountType": "percent",
+      "discountValue": 10,
+      "issuedAt": "2025-04-17T12:00:00Z"
+    },
+    {
+      "id": "CPN1018",
+      "code": "BLACKFRIDAY",
+      "name": "블프 40% 할인",
+      "discountType": "percent",
+      "discountValue": 40,
+      "issuedAt": "2025-04-18T09:00:00Z"
+    },
+    {
+      "id": "CPN1019",
+      "code": "SUMMER10",
+      "name": "여름맞이 10% 할인",
+      "discountType": "percent",
+      "discountValue": 10,
+      "issuedAt": "2025-04-19T16:00:00Z"
+    },
+    {
+      "id": "CPN1020",
+      "code": "WINTERSALE",
+      "name": "겨울세일 15% 할인",
+      "discountType": "percent",
+      "discountValue": 15,
+      "issuedAt": "2025-04-20T11:00:00Z"
+    }
+  ]
+  
