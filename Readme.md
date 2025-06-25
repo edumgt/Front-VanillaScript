@@ -1,8 +1,13 @@
-## Front End Vanilla Script 예제 입니다.
+## Front-End Vanilla Script 예제 입니다.
 
 ## public 폴더에 html 과 export js 일부 파일 샘플이 있습니다.
 ## 사용 Lib. 는 node-modules 에서 복사된 라이브러리 입니다.
 ## package.json 과 같이 react, vue 등의 빌드 모듈과 사용 가능 합니다.
+## 퍼블 소스를 거의 90% 이상 그대로 사용하며, Copilot, codex(ChatGPT) 기반으로 js 로 추출하여 로직으로 구현 합니다.
+## API 호출은 fetch 를 사용하며, 바닐라 프레임웍의 특성 상 별도 jquery, AJAX 는 사용하지 않습니다.
+## Middle Ware 로 Node JS Express 를 두고 Spring Boot 과 연동하는 경량화로 AWS EKS 기반으로 구축합니다.
+## 기본 개발 산출물에서 Client 기반의 html 을 별도 추출 하여, js 분리 및 로직으로 구현 합니다.
+## 당사의 대기업 및 공공기관 개발에서 제안하여 사용 사례가 다수 있습니다.
 
 
 ## Login 화면
